@@ -1,0 +1,5 @@
+- VWAP
+	- #方向 VW_var(Price)?
+- #方向 overlap of buy and sell price
+- #方向 **对一个参数，比如size，假设一个trade有p(trade)的可能性是永久的，而1-p的可能性是瞬时的。拟合，求p(size) (1)
+	- 

@@ -1,0 +1,5 @@
+- #方向 trade的连续性
+	- 不同size的trade的连续性
+	- 不同size的trade的割裂性
+		- **aggr_dv weighted by log(size) - aggr_dv (1)
+- #方向 **trade看做是在时间和size平面上的点，trade的聚合性是一个trend或者大单拆解的指标。(1) #理论

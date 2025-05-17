@@ -7,6 +7,8 @@
 	- ret
 	- high vol
 	- aggr imbalance spike
+	- **TQR spike(1)
+		- 在财报或重大事件发布前，若某个证券的 TQR 突然抬升（“超频试探”），可能是机构在试探流动性或对冲头寸。建立信号：当单个标的或板块短时 TQR 激增时，提前布置多空头寸。
 - #方向 如何刻画两个东西不相符？
 	- ==regression res
 	- ==PCA second factor

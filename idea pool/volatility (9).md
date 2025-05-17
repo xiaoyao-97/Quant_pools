@@ -1,0 +1,23 @@
+- ==beta from vol to ret
+	- [[✅ 5-04-18 20181101-海通证券-金融工程专题报告：高频量价因子在股票与期货中的表现]]
+- ==volatility - volume 的关系
+- #方向 情境：一些有相对高的vol，另一些相对低
+- #方向 vol与liq应该是相反的关系
+	- **vol * liq（1）
+- #方向 
+	- **上行波动率-下行波动率 (3)
+		- [[广发高频：基于股价跳跃模型的因子研究]]
+		- Expl: 兴奋还是恐慌（是一个市场状态，是一个情绪factor）
+			- ret可能是上行和下行的数量不一致，不一定是scale的不同
+		- **排除由于|ret|造成的偏差(1)
+- **bipower (1)
+	- **tripower (1)
+	- Expl: Bipower variation 表示 价格的“连续波动”部分。Tripower variation 是对连续波动的 更鲁棒的估计，能更好地排除跳跃和噪声。
+	- **vol - bipower (1)
+		- Expl: 度量跳跃的比例
+- **Two-scales estimator (1)
+	- Expl: 其主要目的是解决在高频金融数据中市场微观结构噪音（market microstructure noise）影响下的波动率估计偏误问题。
+- **Entropy
+	- Shannon entropy of direction sequence; permutation entropy over mid-price ticks.
+		- Expl: Balanced randomness and White-noise-like randomness
+			- 均匀性

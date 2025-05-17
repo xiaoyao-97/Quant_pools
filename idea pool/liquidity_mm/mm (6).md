@@ -1,0 +1,14 @@
+- #方向 如果盘口的imb表示mm的仓位
+	- #方向 与之前的ret以及aggr order进行交叉分析
+- #方向 虚假mm：fading的速度超过挂单的速度，也就是不同的流动性之间对不上。
+	- fading的速度是更真实的liq
+	- **cszscore(fading_factor) - cszscore(book_depth) (1)
+	- #方向 ==**盘口的方向与aggr_flow的方向之差表现mm的持仓。
+		- **cszscore(tob_imb) - cszscore(aggr_flow) (1)
+		- **撤单造成价格的变化与aggr造成的价格变化的比例(1)
+			- Expl: mm的危机感
+- #方向 mm与hf可能是同一伙人
+- #方向 TQR低还有很大的深度：over provide
+- #方向 ==不同stock，mm的平仓欲望是不是不一样？
+- #方向 **top of book的size分布，时间分布(2)
+- #方向 **ELM: Expected Loss from Market-making (1)

@@ -7,7 +7,7 @@
 		- **二者的差(1)
 		- #延伸 不同的size的PIN不同
 	- **VPIN (1)
-	- 
+	- **ret的峰度 (1)
 	- **var(imb) (1)
 	- **mae(imb) (1)
 	- size distribution params
@@ -15,4 +15,15 @@
 	- liquidity
 	- **Hidden Liquidity Ratio (1)
 	- #方向 ==不同size的flow的收益，refill，liq，fading
-		- 
+	- **Aggressiveness Ratio (1)
+	- **订单到达率的激增 (1)
+- #方向 判断是否有信息流入
+	- **Self-exciting toxicity gauge：Hawkes过程的分支比（branching ratio）(1)
+	- 类似的：
+		- 市场熵（entropy of order flow）	流动性越随机越健康，集中越危险
+- #方向 ==**对mm的adverse selection
+	- **bid_ask_imb weighted aggr_count/aggr_dv (1)
+	- **corr(bid_ask_imb, aggr_count/aggr_dv) (1)
+	- **depth_imb weighted aggr_count/aggr_dv (1)
+	- **add order的方向与aggr_order的方向相反 (1)
+	- **在top of book上加的net order的方向与aggr order的相反(1)

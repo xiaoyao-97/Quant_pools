@@ -1,0 +1,20 @@
+- #方向 识别
+	- **zscore(volume) (1)
+		- Expl: 成交量异常
+	- **高的Cancel-to-Order Ratio (1)
+- #方向 拉升的时候，trade在不同的价位的比例
+	- VWAP
+	- 如果buy trade都集中在低价位：
+		- Expl: 有技术可以大量吸筹然后拉升
+		- Expl: mm非线性地fading
+			- 可能会回调
+		- 如果现在在高价的buy trade很少，
+		- **buy_volume在时间上的趋势 * ret (1)
+			- **sell, net (2)
+			- Hyp: volume在时间上的函数是连续的
+	- **bid_ask_imb变化的频率(1)
+- #方向 **撤单率(1)
+	- **盘口的订单相比主动在反方向成交大很多(1)
+		- Expl: 虚假的买压、卖压
+		- **并且伴随着流动性的降低，也就是很小的dv，就有价格的变化。预示着回撤(1)
+			- 

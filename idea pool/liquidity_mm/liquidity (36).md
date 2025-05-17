@@ -1,3 +1,7 @@
+- indicators:
+	- **over the counter rate = liq (1)
+	- **liquidity Temperature = (spread × volatility) / depth (1)
+		- #延伸 在什么意义上可以提出温度这个概念
 - ==liquidity drop 
 	- *Asset pricing with liquidity risk*
 - ==如何度量mm的risk？
