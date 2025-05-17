@@ -1,0 +1,2 @@
+- *ppt : The Mathematics of Optimal Execution*
+	- idea: ==是不是收盘的时候会liquidate？

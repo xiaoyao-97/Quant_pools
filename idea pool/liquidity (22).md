@@ -1,0 +1,52 @@
+- ==liquidity drop 
+	- *Asset pricing with liquidity risk*
+- ==如何度量mm的risk？
+	- *Time Variation in Liquidity: The Role of Market‐Maker Inventories and Revenues*
+- **成交的交易成本比率因子。
+- ==因子在高流动性的时候多交易，在低的时候少交易
+- ==大单的Liq与小单的liq的比较
+	- **beta之差（1）
+- ==反向liquidity
+	- **aggr与ret反向（1）
+		- **aggr与ret的cszscore反向（1）
+		- #延伸 ret与corr结合
+	- #延伸 
+- ==liquidity × return
+	- **高（低）liquidity + 高（低）return （4）
+	- **liq与ret的相关性（1）
+- ==liq×liq
+	- **订单簿深度与流动性的关系(1)
+	- #方向 多种流动性的聚合关系
+		- 
+- ==stability of liq
+	- **var(liq) (1)
+	- **entropy (1)
+	- **std(spread) (1)
+- ==stability of orderbook imb
+	- **std(bid_ask_imb) (1)
+	- 
+- #方向 ==liq × flow_imb
+	- **flow weighted by liq (1)
+- #方向 ==liq × 基本面动量
+- #方向 ==流动性与价格发现速度
+- #方向 流动性在不同的ret的时候是不一样的
+	- **ret>0时候的流动性与ret<0时候的流动性的差别 (1)
+	- ==**|ret|大的时候的流动性与|ret|小的时候的差别 
+		- Expl: 在ret大的时候，流动性会褪去，也就是说，fading会更快
+		- **Fit vol~ ret^2 (1)
+			- liq: ret~vol
+- #方向 一个trade发生后，book会refill，也就是有一定的流动性，在refill之后
+	- #方向 **refill的时间长度如何度量: marginal tstat (1)
+	- **refill amount (1)
+- #方向 ==低流动性整体与高流动性整体的表现差别
+	- #方向 流动性高低与avg_size是什么关系？
+		- 正常思考，流动性越高，size就会越大
+			- **偏离这个关系的res，可以是双向的(2)
+				- Expl: 高的size可能意味着流动性太高了，需要降低流动性？
+- #方向 等待refill：交易的耐心
+- #方向 (Expl) **流动性骤降后再恢复会有reversal (1)
+	- **liq zscore过低的股票，会有更强的rev (1)
+	- **1/liq weighted return (1)
+		- **liq weighted return - return (1)
+- #方向 流动性激增意味着什么？
+	- #方向 为什么有些股票mm愿意提供更多流动性？（to GPT）

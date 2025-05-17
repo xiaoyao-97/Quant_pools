@@ -1,0 +1,15 @@
+- ==size_avg_price
+	- ==按照不同的size分类，对每一类求avg_price
+- ==收益率加权的单笔金额 
+	- [[✅ 5-04-18 (2)海通选股因子系列研究46：日内分时成交中的玄机]]
+- #方向 理论：如何度量size
+	- 不同的size上会得到不同的结果
+- #方向 ==weighted by log(size)
+	- **price impact, log_size weighted - 1 (1)
+	- ==ret weighted - 1
+		- **aggr dv(1)
+		- **imb(1)
+- #方向 从博弈论的角度，为什么人要发大单？
+	- 流动性很低，refill很低的时候，
+	- 对价格的确认很强
+	- 担心信息会随着时间流入市场，需要在短时间内快速成交

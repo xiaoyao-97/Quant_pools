@@ -1,0 +1,12 @@
+- #方向 当size分布发生明显的变化的时候，就是event的时候
+	- Expl: 也就是信息注入的时候
+	- **如果此时流动性没有降低，那么就overprovide了，我们可以做momentum trading (1)
+- #方向 找到所有的event indicators (10)
+	- Size
+	- liq drop (all liq indicators)
+	- ret
+	- high vol
+	- aggr imbalance spike
+- #方向 如何刻画两个东西不相符？
+	- ==regression res
+	- ==PCA second factor

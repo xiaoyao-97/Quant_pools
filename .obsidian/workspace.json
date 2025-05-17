@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "0d9e8ba78d4e2a4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a99b39c0ef9bea44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de2c9e2e95ac1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MM via Bayesian Learning with Nearest Neighbors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MM via Bayesian Learning with Nearest Neighbors"
+            }
+          },
+          {
+            "id": "9a32ddbcbf88b9d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idea pool/liquidity (22).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "liquidity (22)"
+            }
+          },
+          {
+            "id": "aff3680fbe200258",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c377d94e4e6ca2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a9d3fdf8c38c464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98750c84af63c259",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f3a839ec0c395126",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e7a367ac97614d1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.50271224975586
+  },
+  "right": {
+    "id": "a447bce1cefc836b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7286c332578d731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f90b350e76a7b3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MM via Bayesian Learning with Nearest Neighbors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "MM via Bayesian Learning with Nearest Neighbors 的反向链接列表"
+            }
+          },
+          {
+            "id": "d3aa966dc68baa7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MM via Bayesian Learning with Nearest Neighbors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "MM via Bayesian Learning with Nearest Neighbors 的出链列表"
+            }
+          },
+          {
+            "id": "dcc6dced859024a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "27cd23ba6e9c47c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MM via Bayesian Learning with Nearest Neighbors.md"
+              },
+              "icon": "lucide-list",
+              "title": "MM via Bayesian Learning with Nearest Neighbors 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "aff3680fbe200258",
+  "lastOpenFiles": [
+    "idea pool/liquidity (22).md",
+    "idea pool/volatility（4）.md",
+    "pool factors/operators.md",
+    "pool theory/流动性的收益（2025-05-17）.md",
+    "MM via Bayesian Learning with Nearest Neighbors.md",
+    "pool theory",
+    "idea pool/trend (4).md",
+    "pool factors/sentiments.md",
+    "idea pool/flow (12).md",
+    "idea pool/event (11).md",
+    "pool factors",
+    "idea pool/time (4).md",
+    "idea pool/size (3).md",
+    "idea pool/trade (1).md",
+    "pool meta/思维方式1.md",
+    "pool meta",
+    "pool wild/001.md",
+    "idea pool/volume.md",
+    "idea pool/price confirmation (0).md",
+    "idea pool/mkt manipulation.md",
+    "idea pool/info injection.md",
+    "pool wild",
+    "idea pool/hf (0).md",
+    "idea pool/fading（1）.md",
+    "idea pool/corr.md",
+    "logging/2025.5.md",
+    "logging",
+    "pool topics/25-04-21 截面不变量.md",
+    "pool topics/25-04-19：Market Microstructure Invariance Empirical Hypotheses.md",
+    "pool topics/25-04-19 liquidation.md",
+    "未命名.canvas",
+    "pool topics",
+    "pool alpha",
+    "Asset pricing with liquidity risk.md",
+    "idea pool",
+    "millennium",
+    "研报阅读"
+  ]
+}

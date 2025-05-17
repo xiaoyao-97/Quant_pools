@@ -1,0 +1,1 @@
+- liq weighted - 1

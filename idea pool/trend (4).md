@@ -1,0 +1,8 @@
+- #方向 **corr(ret, log(VWAP_buy)-log(VWAP_sell)) (1)
+	- Expl: how aggressive the followers are
+	- **ANS * back_ret (1)
+- #方向 挂单想成交，但是成交不了
+	- Expl: 代表着流动性降低
+	- **mm fading对价格的影响与aggr对价格的影响的比例，与|ret|的关系。(1)
+		- **mm fading造成的vol的比例 (1)
+		- 

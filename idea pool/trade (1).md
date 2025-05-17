@@ -1,0 +1,4 @@
+- #方向 trade的连续性
+	- 不同size的trade的连续性
+	- 不同size的trade的割裂性
+		- **aggr_dv weighted by log(size) - aggr_dv (1)

@@ -1,0 +1,25 @@
+- ==如果aggr是pos taker
+	- **aggr的持仓，对avg aggr dv进行加权，然后cszscore (1)
+	- aggr分布的均匀性
+		- #方向 度量aggr分布的均匀性
+			- **各种贫富差距的度量：buy, sell, total, diff (4)
+			- **短期贫富差距与长期的比较 (1)
+	- ==buy和sell分别是两个size上的distribution，对两个distribution求差
+		- #方向 如何求差
+	- ==时间上的均匀性
+		- **时间上的方差（1）
+		- **熵（1）
+- ==high dv时间的avg size与low dv时的比较 #方向 
+- ==aggr flow与ret的交互
+- #方向 aggr flow所预测的ret又多少realize了
+- #方向 aggr flow的信息量
+	- aggr flow有多大的一致性：**在不同的时间上，(aggr_buy-aggr_sell)^2/(aggr_buy+aggr_sell) （1）
+- #方向 开盘收盘
+	- #tofml 开盘收盘的大单占比的不同
+- ## 各种imbalance index* return （1）
+- #方向 flow of the whole market
+- #方向 ==flow imb × price
+	- #问题 如何突出price呢？如果用price加权的话是没太大意义的。
+- ==大量的对等的aggr buy和aggr sell，而|ret|比较大，*大型的筹码转移，吸筹？
+	- **aggr_match = 1-abs(aggr_buy-aggr_sell)/(aggr_buy+aggr_sell) (1)
+	- **ret weighted by aggr_match (1)

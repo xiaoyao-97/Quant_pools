@@ -1,0 +1,2 @@
+- #方向 trade with big size influence the market?
+- #方向 如何度量一个trade是否真的有fair？
