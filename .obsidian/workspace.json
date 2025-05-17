@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idea pool/info injection (4).md",
+                "file": "idea pool/mkt manipulation (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "info injection (4)"
+              "title": "mkt manipulation (1)"
             }
           }
         ],
@@ -194,15 +194,17 @@
   },
   "active": "aff3680fbe200258",
   "lastOpenFiles": [
-    "pool factors/operators.md",
-    "idea pool/info injection (4).md",
-    "pool factors/sentiments.md",
     "idea pool/volume.md",
+    "idea pool/mkt manipulation (1).md",
+    "idea pool/price confirmation (0).md",
     "idea pool/size (3).md",
     "idea pool/liquidity (34).md",
+    "idea pool/info injection (8).md",
     "idea pool/hf (0).md",
-    "idea pool/fading（1）.md",
     "idea pool/flow (12).md",
+    "idea pool/fading（1）.md",
+    "pool factors/operators.md",
+    "idea pool/sentiments.md",
     "idea pool/event (11).md",
     "idea pool/volatility（4）.md",
     "pool theory/流动性的收益（2025-05-17）.md",
@@ -215,8 +217,6 @@
     "pool meta/思维方式1.md",
     "pool meta",
     "pool wild/001.md",
-    "idea pool/price confirmation (0).md",
-    "idea pool/mkt manipulation.md",
     "pool wild",
     "idea pool/corr.md",
     "logging/2025.5.md",

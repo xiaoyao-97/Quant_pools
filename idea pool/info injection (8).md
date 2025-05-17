@@ -1,10 +1,18 @@
 - #方向 如何识别哪些确实是真info（也就是真的是在inject）和那些以为是在inject，其实是来晚了
 	- #方向 如何识别那些信息明显强于其他参与者并且知道自己的信息强的交易？
 - #方向 ==info rate
+	- **PIN（Probability of Informed Trading）
+		- **对count做(1)
+		- **对aggr_dv做(1)
+		- **二者的差(1)
+		- #延伸 不同的size的PIN不同
+	- **VPIN (1)
+	- 
 	- **var(imb) (1)
 	- **mae(imb) (1)
 	- size distribution params
 	- **Volume-Volatility Correlation (1)
 	- liquidity
 	- **Hidden Liquidity Ratio (1)
-	- 
+	- #方向 ==不同size的flow的收益，refill，liq，fading
+		- 
