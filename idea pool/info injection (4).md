@@ -1,0 +1,10 @@
+- #方向 如何识别哪些确实是真info（也就是真的是在inject）和那些以为是在inject，其实是来晚了
+	- #方向 如何识别那些信息明显强于其他参与者并且知道自己的信息强的交易？
+- #方向 ==info rate
+	- **var(imb) (1)
+	- **mae(imb) (1)
+	- size distribution params
+	- **Volume-Volatility Correlation (1)
+	- liquidity
+	- **Hidden Liquidity Ratio (1)
+	- 

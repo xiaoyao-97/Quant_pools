@@ -27,22 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idea pool/liquidity (22).md",
+                "file": "idea pool/liquidity (34).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "liquidity (22)"
+              "title": "liquidity (34)"
             }
           },
           {
             "id": "aff3680fbe200258",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "idea pool/info injection (4).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "info injection (4)"
             }
           }
         ],
@@ -190,30 +194,30 @@
   },
   "active": "aff3680fbe200258",
   "lastOpenFiles": [
-    "idea pool/liquidity (22).md",
-    "idea pool/volatility（4）.md",
     "pool factors/operators.md",
+    "idea pool/info injection (4).md",
+    "pool factors/sentiments.md",
+    "idea pool/volume.md",
+    "idea pool/size (3).md",
+    "idea pool/liquidity (34).md",
+    "idea pool/hf (0).md",
+    "idea pool/fading（1）.md",
+    "idea pool/flow (12).md",
+    "idea pool/event (11).md",
+    "idea pool/volatility（4）.md",
     "pool theory/流动性的收益（2025-05-17）.md",
     "MM via Bayesian Learning with Nearest Neighbors.md",
     "pool theory",
     "idea pool/trend (4).md",
-    "pool factors/sentiments.md",
-    "idea pool/flow (12).md",
-    "idea pool/event (11).md",
     "pool factors",
     "idea pool/time (4).md",
-    "idea pool/size (3).md",
     "idea pool/trade (1).md",
     "pool meta/思维方式1.md",
     "pool meta",
     "pool wild/001.md",
-    "idea pool/volume.md",
     "idea pool/price confirmation (0).md",
     "idea pool/mkt manipulation.md",
-    "idea pool/info injection.md",
     "pool wild",
-    "idea pool/hf (0).md",
-    "idea pool/fading（1）.md",
     "idea pool/corr.md",
     "logging/2025.5.md",
     "logging",

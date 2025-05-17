@@ -1,1 +1,5 @@
 - liq weighted - 1
+- low_liq （价格发现较慢）
+	- low_liq+low_vol
+- info rate [[info injection (4)]]
+- 

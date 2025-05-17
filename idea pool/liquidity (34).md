@@ -27,8 +27,27 @@
 	- 
 - #方向 ==liq × flow_imb
 	- **flow weighted by liq (1)
+	- **liq* imb (1)
+		- Expl: 低流动性的会反转，高流动性的会动量
+		- **liq * aggr_dv (1)
+- #方向 ==low_lip + trend = rev
+	- **trend率（主动交易与back_ret的相关性）* low_liq * ret (1)
+	- **trend率（主动交易与back_ret的相关性）* dv * ret (1)
+	- **low_liq + low_info_rate = rev (1)
 - #方向 ==liq × 基本面动量
 - #方向 ==流动性与价格发现速度
+	- 交易成本高、投资者关注有限以及信息覆盖不足
+		- 所以低流动性也可能低vol
+			- **低流动性 * 低vol (1*?)
+	- #方向 ==价格发现速度如何刻画？
+	- 如果低流动性=发现速度慢
+		- ==ret从高流动性的股票扩散到低流动性
+			- Forml: **(low_liq_factor)* (cszscore(ret)) (1)
+			- jump: **高相关性股票中的ret最大值 * low_liq_factor (1)
+				- **还有ret的mean和偏度 (2)
+- #方向 流动性 = price confirmation置信率
+	- liq weighted ret
+	- 
 - #方向 流动性在不同的ret的时候是不一样的
 	- **ret>0时候的流动性与ret<0时候的流动性的差别 (1)
 	- ==**|ret|大的时候的流动性与|ret|小的时候的差别 
@@ -48,5 +67,7 @@
 	- **liq zscore过低的股票，会有更强的rev (1)
 	- **1/liq weighted return (1)
 		- **liq weighted return - return (1)
+		- **cszscore(liq weighted ret) (1)
 - #方向 流动性激增意味着什么？
 	- #方向 为什么有些股票mm愿意提供更多流动性？（to GPT）
+- #方向 **大盘流动性因子，以及个股的beta (1)
