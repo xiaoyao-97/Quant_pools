@@ -17,13 +17,18 @@
 	- #方向 ==不同size的flow的收益，refill，liq，fading
 	- **Aggressiveness Ratio (1)
 	- **订单到达率的激增 (1)
+	- **regression(ret, dv^2)
+	- **大的买一卖一的撤单
 - #方向 判断是否有信息流入
 	- **Self-exciting toxicity gauge：Hawkes过程的分支比（branching ratio）(1)
 	- 类似的：
 		- 市场熵（entropy of order flow）	流动性越随机越健康，集中越危险
+		- **中午会不会因为新闻导致Hawkes参数变化(Self-Exciting Burst Model)(1)
 - #方向 ==**对mm的adverse selection
 	- **bid_ask_imb weighted aggr_count/aggr_dv (1)
 	- **corr(bid_ask_imb, aggr_count/aggr_dv) (1)
 	- **depth_imb weighted aggr_count/aggr_dv (1)
 	- **add order的方向与aggr_order的方向相反 (1)
 	- **在top of book上加的net order的方向与aggr order的相反(1)
+	- **corr(aggr_dv, bid_ask_imb) (1)
+		- Expl: mm的反应速度

@@ -9,6 +9,9 @@
 	- ==时间上的均匀性
 		- **时间上的方差（1）
 		- **熵（1）
+	- ==时间上的连续性
+		- **熵
+		- **dir markov proba (1)
 - ==high dv时间的avg size与low dv时的比较 #方向 
 - ==aggr flow与ret的交互
 - #方向 aggr flow所预测的ret又多少realize了

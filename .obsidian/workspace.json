@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pool wild/现象01.md",
+                "file": "idea pool/orderbook/venue (4).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "现象01"
+              "title": "venue (4)"
+            }
+          },
+          {
+            "id": "89c85ce90d5ecb35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idea pool/flow_position/flow (13).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "flow (13)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "odd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,44 +220,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dd0082fca8467ce8",
+  "active": "89c85ce90d5ecb35",
   "lastOpenFiles": [
-    "idea pool/orderbook/book (11).md",
-    "pool wild/现象01.md",
-    "idea pool/price_and_info/info injection (14).md",
-    "idea pool/price_and_info/price confirmation (1).md",
-    "idea pool/liquidity_mm/mm (6).md",
-    "idea pool/liquidity_mm/liquidity (36).md",
-    "idea pool/orderbook/size (3).md",
+    "idea pool/orderbook/venue (4).md",
+    "idea pool/orderbook/book (16).md",
+    "idea pool/orderbook/exchange.md",
     "idea pool/orderbook/time (4).md",
-    "idea pool/orderbook/trade (2).md",
+    "idea pool/flow_position/flow (13).md",
+    "idea pool/volatility (10).md",
+    "idea pool/orderbook/trade (3).md",
+    "idea pool/orderbook/size (3).md",
+    "idea pool/flow_position/iceberg (4).md",
+    "idea pool/algo (1).md",
+    "idea pool/price_and_info/info injection (15).md",
+    "未命名 2.md",
     "idea pool/orderbook/volume (1).md",
-    "pool wild/001.md",
+    "未命名 1.md",
+    "idea pool/liquidity_mm/mm (8).md",
+    "idea pool/price_and_info/price confirmation (1).md",
     "idea pool/mkt manipulation (6).md",
+    "stack/25.5.md",
+    "pool factors/operators.md",
+    "stack",
+    "idea pool/liquidity_mm/liquidity (36).md",
+    "idea pool/corr.md",
+    "idea pool/event (12).md",
+    "idea pool/hf (0).md",
+    "idea pool/hft (1).md",
+    "pool wild/现象01.md",
+    "pool wild/001.md",
     "idea pool/flow_position",
     "idea pool/liquidity_mm",
     "idea pool/price_and_info",
     "idea pool/informed_trend",
     "idea pool/orderbook",
-    "idea pool/volatility (9).md",
-    "logging/2025.5.md",
-    "idea pool/hf (0).md",
-    "idea pool/informed_trend/sentiments.md",
-    "pool theory/hft.md",
-    "pool theory/流动性的收益（2025-05-17）.md",
-    "idea pool/hft (1).md",
-    "pool factors/operators.md",
-    "idea pool/event (12).md",
-    "idea pool/informed_trend/trend (4).md",
-    "idea pool/flow_position/flow (12).md",
-    "pool factors/states.md",
-    "未命名.md",
-    "idea pool/liquidity_mm/fading（1）.md",
     "pool theory",
     "pool factors",
     "pool meta",
     "pool wild",
-    "logging",
     "未命名.canvas"
   ]
 }

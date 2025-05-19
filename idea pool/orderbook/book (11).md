@@ -1,9 +1,0 @@
-- **发送订单距离mid (1)
-	- **buy距离mid, sell距离mid，差(3)
-	- **挂单的分布，是否分散，2 sides(3)
-- #方向 spoofing
-	- 大size订单在距离mid很远的地方
-		- **vwap对size加权 (1)
-- **Cancellation aggressiveness: avg time between add → cancel for unfilled orders (1)
-- **Execution-risk surface (1)
-- **Queue position variance** 是指一个挂单在其生命周期中，其在该价格档位中的**排名（rank）变动的方差**。(1)

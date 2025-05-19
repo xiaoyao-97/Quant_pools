@@ -1,0 +1,13 @@
+- #方向 毒性（Toxicity）= 对手方因信息劣势而亏损的概率或程度。
+	- 信息优势
+	- 统计套利	高频模型预测短期价格方向
+	- 前置交易（Front-running）	利用别人订单提前下单获利	看到大单将入市，抢先下单抬价
+		- **大的交易量发生之前的那部分交易的特征，用来筛选trades（orders）。比如说，提前下单的人喜欢发size=100的trades，下次就提前捕捉。(1)
+- #方向 
+	- 黑池通常想避免毒性订单，因为他们保护流动性提供者。
+	- #方向 Dark-Pool “Toxicity” Migration
+		- Expl: As venues label flow toxicity in real time, savvy participants route “toxic” orders to lit markets to hide among noise, causing toxicity to migrate dynamically. Model routing games as a predator-prey system.
+- #方向 **熵：分布的不均匀 (1) [4/3]
+	- Expl: 预示着高vol
+- #方向 **venue-hop detection (1) [5/7]
+- #方向 **更新延迟的时间(1)

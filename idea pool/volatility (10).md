@@ -1,3 +1,5 @@
+- indicators
+	- **take through book rate (1) [3/1]
 - ==beta from vol to ret
 	- [[✅ 5-04-18 20181101-海通证券-金融工程专题报告：高频量价因子在股票与期货中的表现]]
 - ==volatility - volume 的关系
@@ -21,3 +23,6 @@
 	- Shannon entropy of direction sequence; permutation entropy over mid-price ticks.
 		- Expl: Balanced randomness and White-noise-like randomness
 			- 均匀性
+- **liquidity weighted volatility
+	- 市场流动性稀缺（depth 低），但价格仍大幅波动：典型于“stressed markets”、“microstructure crisis”
+	- 低lwv：有波动，但背后有“厚簿支撑”，说明市场稳定或处于“liquidity compression”（可安全放大交易）

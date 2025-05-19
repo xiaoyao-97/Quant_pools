@@ -1,0 +1,8 @@
+- ==**Order-Book Echoes After Large Hidden Trades
+	- Expl: distinctive signature of small buy prints followed by slightly wider spreads and thinner depth – a micro “seismic aftershock” you can detect with high-resolution book data.
+	- **某一个方向的Liquidity消退 (1)
+		- **change of bid_ask_imbalance (1) [4/1]
+		- #方向  signed liquidity
+- #方向 ==算法在几个不同的交易所同时清扫订单。
+	- **不同交易所的entropy（可以用流动性weighted），表示是有策略地在进行大单的消化。(1)
+- #方向 **每次交易之后马上发出同样的订单(1)[3/5]

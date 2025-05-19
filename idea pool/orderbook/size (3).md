@@ -15,3 +15,5 @@
 	- 担心信息会随着时间流入市场，需要在短时间内快速成交
 - #方向 ==size distribution params
 - #方向 在不同size上有很好的时间连续性，可能是对倒交易的表现
+- #方向 odd lot（非整数的size）更容易成交。
+	- **liquidity hole at round pennies

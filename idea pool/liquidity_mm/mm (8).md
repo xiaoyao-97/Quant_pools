@@ -7,8 +7,14 @@
 		- **cszscore(tob_imb) - cszscore(aggr_flow) (1)
 		- **撤单造成价格的变化与aggr造成的价格变化的比例(1)
 			- Expl: mm的危机感
+	- **dv/book_dv (1)
+		- Expl: 成交与book深度的比值
 - #方向 mm与hf可能是同一伙人
 - #方向 TQR低还有很大的深度：over provide
 - #方向 ==不同stock，mm的平仓欲望是不是不一样？
 - #方向 **top of book的size分布，时间分布(2)
 - #方向 **ELM: Expected Loss from Market-making (1)
+- #方向 mm对不同方向的liq的偏好不一样，但是不敢移动价格来做。
+	- **两边的refill rate不一样 (1)
+- #方向 ==Latency-Induced “Ghost Liquidity”
+	- Expl: Quotes posted by ultrafast market-makers evaporate before slower participants can hit them
