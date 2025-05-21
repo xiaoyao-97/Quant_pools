@@ -26,3 +26,4 @@
 - ==大量的对等的aggr buy和aggr sell，而|ret|比较大，*大型的筹码转移，吸筹？
 	- **aggr_match = 1-abs(aggr_buy-aggr_sell)/(aggr_buy+aggr_sell) (1)
 	- **ret weighted by aggr_match (1)
+- #方向 ==后悔现象：市场没有认可的投资逻辑，即时止损

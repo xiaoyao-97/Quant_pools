@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4de2c9e2e95ac1e1",
+            "id": "d5e7c21b79f94593",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MM via Bayesian Learning with Nearest Neighbors.md",
+                "file": "projects/CLS_trade_clustering/3_cs/main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MM via Bayesian Learning with Nearest Neighbors"
+              "title": "main"
             }
           },
           {
@@ -62,23 +62,8 @@
               "icon": "lucide-file",
               "title": "venue (4)"
             }
-          },
-          {
-            "id": "89c85ce90d5ecb35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea pool/flow_position/flow (13).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "flow (13)"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.50271224975586
+    "width": 301.50271224975586
   },
   "right": {
     "id": "a447bce1cefc836b",
@@ -220,44 +205,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "89c85ce90d5ecb35",
+  "active": "d5e7c21b79f94593",
   "lastOpenFiles": [
+    "projects/CLS_trade_clustering/1_participant_detection/main.md",
+    "projects/CLS_trade_clustering/OP_operators.md",
+    "projects/CLS_trade_clustering/main.md",
+    "projects/CLS_trade_clustering/未命名 1",
+    "projects/CLS_trade_clustering/4_PR_price_preference/main.md",
+    "projects/CLS_trade_clustering/4_PR_price_preference",
+    "projects/CLS_trade_clustering/2_liquidity_weighted/main.md",
+    "projects/CLS_trade_clustering/3_cs/main.md",
+    "projects/CLS_trade_clustering/3_cs",
+    "projects/CLS_trade_clustering/2_liquidity_weighted",
+    "projects/LIQ",
+    "projects/CLS_trade_clustering/未命名",
+    "未命名 3.md",
+    "projects/CLS_trade_clustering/1_participant_detection",
+    "idea pool/liquidity_mm/liquidity (36).md",
+    "projects/CLS_trade_clustering",
+    "未命名",
+    "projects",
+    "idea pool/flow_position/flow (13).md",
+    "idea pool/orderbook/size (4).md",
+    "MM via Bayesian Learning with Nearest Neighbors.md",
     "idea pool/orderbook/venue (4).md",
+    "logging/2025.5.md",
+    "idea pool/price_and_info/price confirmation (1).md",
+    "idea pool/price_and_info/info injection (15).md",
+    "idea pool/liquidity_mm/mm (8).md",
     "idea pool/orderbook/book (16).md",
     "idea pool/orderbook/exchange.md",
     "idea pool/orderbook/time (4).md",
-    "idea pool/flow_position/flow (13).md",
     "idea pool/volatility (10).md",
     "idea pool/orderbook/trade (3).md",
-    "idea pool/orderbook/size (3).md",
     "idea pool/flow_position/iceberg (4).md",
     "idea pool/algo (1).md",
-    "idea pool/price_and_info/info injection (15).md",
     "未命名 2.md",
     "idea pool/orderbook/volume (1).md",
     "未命名 1.md",
-    "idea pool/liquidity_mm/mm (8).md",
-    "idea pool/price_and_info/price confirmation (1).md",
-    "idea pool/mkt manipulation (6).md",
-    "stack/25.5.md",
-    "pool factors/operators.md",
-    "stack",
-    "idea pool/liquidity_mm/liquidity (36).md",
-    "idea pool/corr.md",
-    "idea pool/event (12).md",
-    "idea pool/hf (0).md",
-    "idea pool/hft (1).md",
-    "pool wild/现象01.md",
-    "pool wild/001.md",
-    "idea pool/flow_position",
-    "idea pool/liquidity_mm",
-    "idea pool/price_and_info",
-    "idea pool/informed_trend",
-    "idea pool/orderbook",
-    "pool theory",
-    "pool factors",
-    "pool meta",
-    "pool wild",
     "未命名.canvas"
   ]
 }

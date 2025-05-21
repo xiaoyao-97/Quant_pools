@@ -17,3 +17,8 @@
 - #方向 在不同size上有很好的时间连续性，可能是对倒交易的表现
 - #方向 odd lot（非整数的size）更容易成交。
 	- **liquidity hole at round pennies
+- #方向 大单的pnl
+	- **(VWAP_buy - VWAP_sell) weighted by size (1)
+- #方向 ==aggr flow在不同size上的不均衡性
+- #方向 ==高成交量的时期size也不均衡
+- **avg_size_imb

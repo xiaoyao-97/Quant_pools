@@ -1,0 +1,2 @@
+- #方向 aggr_buy的分布在price上不一样
+- #方向 不同size的price分布不同。
